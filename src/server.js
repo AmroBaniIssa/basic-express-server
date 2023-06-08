@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(logger);
 
 app.get('/',(req,res)=>{
- res.send("hello worlled");
+ res.send("hello world");
 
 })
 
