@@ -17,14 +17,3 @@ module.exports = Person;
 
 
 
-// function square(n) {
-//     return (req, res, next) => {
-//         if (typeof n == "number") {
-//             req.number = n * n;
-//             next();
-//         } else {
-//             next(`this is not a number ${n}`);
-//         }
-//     }
-// }
-// module.exports = square;
